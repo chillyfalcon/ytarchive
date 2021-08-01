@@ -1,0 +1,1 @@
+ytarchive.py -o '%(Astelch)s/%(1/8/21)s_%(Sing)s' https://www.youtube.com/watch?v=0EZ1t3NpLI4 audio_only
